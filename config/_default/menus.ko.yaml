@@ -1,24 +1,24 @@
 main:
   - identifier: blog
-    name: Vlog
+    name: 블로그
     weight: 4
     params:
       icon:
         vendor: fas
         name: blog
 
-  - name: 서포트
-    identifier: support
+  - name: 링크
+    identifier: links
     weight: 100
-    url: https://github.com/hbstack
+    # url: https://github.com/hbstack
     params:
-      header: The HB support community.
+      header: 관련 사이트 링크
       icon:
         vendor: font-awesome-solid
         name: headset
 
   - name: Documentation
-    parent: support
+    parent: links
     url: https://hbstack.dev/
     weight: 1
     params:
@@ -29,7 +29,7 @@ main:
       description: The documentation.
 
   - name: GitHub
-    parent: support
+    parent: links
     url: https://github.com/hbstack
     weight: 11
     params:
@@ -39,7 +39,7 @@ main:
       description: The code repository.
 
   - name: Discussion
-    parent: support
+    parent: links
     url: https://github.com/orgs/hbstack/discussions
     weight: 12
     params:
@@ -50,7 +50,7 @@ main:
       description: Ask questions and share your ideas.
 
   - name: Bug Report
-    parent: support
+    parent: links
     url: https://github.com/orgs/hbstack/discussions/new?category=issues-and-bugs
     weight: 13
     params:
@@ -61,7 +61,7 @@ main:
       description: Tell us about a bug or issue.
 
   - name: Feature Request
-    parent: support
+    parent: links
     url: https://github.com/orgs/hbstack/discussions/new?category=ideas
     weight: 14
     params:
@@ -72,7 +72,7 @@ main:
       description: Suggest new or updated features.
   
   - name: Mastodon
-    parent: support
+    parent: links
     url: https://techhub.social/@hbstack
     weight: 16
     params:

@@ -1,7 +1,7 @@
 ---
-title: Notess
+title: 클리닉
 type: docs
-description: Yet another digital garden that using docs layout.
+description: 使用文档布局的另一个数字花园。
 menu:
   main:
     weight: 1
