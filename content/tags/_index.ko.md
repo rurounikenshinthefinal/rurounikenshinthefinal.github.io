@@ -1,5 +1,5 @@
 ---
-title: 태그
+title: Tags
 menu:
   main:
     parent: blog

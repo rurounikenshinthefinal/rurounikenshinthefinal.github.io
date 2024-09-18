@@ -1,5 +1,5 @@
 ---
-title: "그래프"
+title: "그래프2"
 date: 2023-11-26T16:36:24+08:00
 draft: false
 description: "Mermaid로 그래프 그리기 예시"
@@ -15,8 +15,7 @@ tags:
  - 그래프
  - Mermaid
 images:
-  - images/banners/tickets.png
-#   - https://example-images.razonyang.com/flowchart.webp?width=1920&height=1280
+  - https://example-images.razonyang.com/flowchart.webp?width=1920&height=1280
 authors:
   - HB
   - HugoMods

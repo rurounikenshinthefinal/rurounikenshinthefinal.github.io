@@ -1,6 +1,6 @@
 ---
-title: 병원 소개
-description: 병원 소개
+title: About
+description: about us
 menu:
   main:
     weight: 1
