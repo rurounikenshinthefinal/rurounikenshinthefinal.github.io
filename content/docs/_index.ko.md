@@ -6,9 +6,10 @@ menu:
     weight: 1
     params:
       icon:
-        vendor: bs
-        name: pencil-square
+        vendor: far
+        name: hospital
 images:  
-  # - https://example-images.razonyang.com/website-design.webp?width=1920&height=1280
+  # - images/tickets.png
+  - https://example-images.razonyang.com/website-design.webp?width=1920&height=1280
 ---
 You can migrate to cards theme from the [starter theme](https://github.com/hbstack/theme) effortlessly within two steps.

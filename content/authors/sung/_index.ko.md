@@ -6,4 +6,8 @@ images:
 socials:
   github: hugomods
   gmail: mailto:support@hugomods.com
+  twitter: seongki11
+  instagram: seongki11
+  youtube: seongki1
 ---
+Hello world

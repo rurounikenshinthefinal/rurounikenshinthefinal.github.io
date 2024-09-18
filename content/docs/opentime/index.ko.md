@@ -1,16 +1,17 @@
 ---
-title: "찾아오시는 길"
-description: "서울 중구 무교로 16 대한체육회관"
+title: "진료 시간"
+description: "진료 시간을 안내해드립니다."
 # linkTitle:
 date: 2023-12-01T11:47:31+08:00
 draft: false
 noindex: false
 featured: true
 pinned: false
-nav_weight: 2
+nav_weight: 5
 nav_icon:
   vendor: fas
-  name: location-arrow
+  name: clock
+  color: purple
   # className: text-primary
 series:
   - About
@@ -20,7 +21,6 @@ tags:
   - 진료시간
 images:
   - https://example-images.razonyang.com/speed.webp?width=1920&height=1280
-  # - https://simg.pstatic.net/static.map/v2/map/staticmap.bin?crs=EPSG:4326&amp;baselayer=bl_vc_bg&amp;overlayers=ol_vc_an&amp;scale=2&amp;caller=mw_smart_booking&amp;overlayers=ol_vc_an&amp;center=126.9794111,37.567342&amp;markers=type:c|size:mid|label:hospital|pos:126.9794111 37.567342&amp;level=16&amp;w=335&amp;h=170&amp;lang=ko
 # menu:
 #   main:
 #     weight: 100

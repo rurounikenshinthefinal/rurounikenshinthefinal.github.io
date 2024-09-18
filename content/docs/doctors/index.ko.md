@@ -10,9 +10,9 @@ featured: true
 pinned: true
 nav_weight: 1
 nav_icon:
-  vendor: bootstrap
-  name: cloud-download
-  color: green
+  vendor: fas
+  name: user-doctor
+  color: blue
 series:
   - About
 categories:

@@ -1,17 +1,17 @@
 ---
 type: docs
-title: "통증클리닉"
-description: "통증클리닉"
+title: "초음파클리닉"
+description: "초음파클리닉"
 # linkTitle:
 date: 2024-08-15T11:47:31+08:00
 draft: false
 noindex: false
 featured: true
 pinned: false
-nav_weight: 10
+nav_weight: 1
 nav_icon:
-  vendor: bootstrap
-  name: columns
+  vendor: fas
+  name: heart-pulse
   color: green
 series:
   - 클리닉

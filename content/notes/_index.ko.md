@@ -7,6 +7,6 @@ menu:
     weight: 1
     params:
       icon:
-        vendor: bs
-        name: pencil-square
+        vendor: fas
+        name: laptop-medical
 ---
