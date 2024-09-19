@@ -8,14 +8,14 @@ featured: true
 pinned: false
 # comments: false
 series:
- - 예시
+ - neck
 categories:
- - 내용
+ - scan
 tags:
  - 그래프
  - Mermaid
 images:
-  - images/banners/tickets.png
+ - images/banners/tickets.png
 #   - https://example-images.razonyang.com/flowchart.webp?width=1920&height=1280
 authors:
   - HB

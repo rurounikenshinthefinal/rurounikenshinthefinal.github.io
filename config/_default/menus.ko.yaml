@@ -1,7 +1,7 @@
 main:
   - identifier: blog
     name: Cases
-    weight: 999
+    weight: 10
     params:
       icon:
         vendor: fas
