@@ -1,8 +1,8 @@
 ---
-title: "Dorsal_scapular_nerve_hd"
+title: "Spinal_accessory_nerve_hd"
 date: 2024-09-18T21:07:39+09:00
 draft: false
-description: "Dorsal_scapular_nerve_hd"
+description: "Spinal_accessory_nerve_hd"
 noindex: false
 featured: false
 pinned: false
@@ -12,7 +12,7 @@ series:
 categories:
  - nerve hd
 tags:
- - dsn
+ - san
  - levator
  - trapezius
 images:
