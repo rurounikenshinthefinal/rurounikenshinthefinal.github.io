@@ -5,16 +5,16 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
-customText = ""
+since = 2014
+customText = "대표성기원|서울중구무교로16대한체육회관7층|전화070-7759-7779|사업자등록번호211-90-72503"
 
 [dateFormat]
 published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = "👍🏻"
+subtitle = "KH Mugyoro Medicine Clinic"
 
 [sidebar.avatar]
 enabled = true
@@ -34,11 +34,11 @@ default = "Licensed under CC BY-NC-SA 4.0"
 [[widgets.homepage]]
 type = "search"
 
-[[widgets.homepage]]
-type = "archives"
+#[[widgets.homepage]]
+#type = "archives"
 
-[widgets.homepage.params]
-limit = 5
+#[widgets.homepage.params]
+#limit = 5
 
 [[widgets.homepage]]
 type = "categories"
@@ -76,7 +76,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]

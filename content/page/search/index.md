@@ -1,5 +1,5 @@
 ---
-title: "Search"
+title: "검색"
 slug: "search"
 layout: "search"
 outputs:
@@ -7,7 +7,7 @@ outputs:
     - json
 menu:
     main:
-        weight: 3
+        weight: 30
         params: 
             icon: search
 ---
