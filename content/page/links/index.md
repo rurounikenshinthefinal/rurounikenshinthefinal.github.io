@@ -1,14 +1,14 @@
 ---
 title: 링크
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+  - title: 네이버플레이스
+    description: 네이버에서 병원 정보를 확인하세요.
+    website: https://naver.me/5AmVd0PR
+    image: place.png
+  - title: 네이버예약
+    description: 네이버에서 진료를 예약해주세요.
+    website: https://booking.naver.com/booking/13/bizes/384022
+    image: book.png
 menu:
     main: 
         # name: 링크
@@ -18,21 +18,3 @@ menu:
 
 comments: false
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.

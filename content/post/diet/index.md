@@ -9,6 +9,7 @@ categories:
 tags:
  - 다이어트
 # keywords: []
+weight: 10
 comments: false
 toc: false
 # menu:

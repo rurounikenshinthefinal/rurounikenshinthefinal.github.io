@@ -3,7 +3,7 @@ title: "드퀘르뱅건초염"
 description: "드퀘르뱅건초염 초음파중재술"
 date: 2025-06-30T12:04:02+09:00
 image: compartment1.jpg
-draft: false
+draft: true
 categories: 
  - 손목
 tags: 
