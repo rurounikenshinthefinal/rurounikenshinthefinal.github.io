@@ -1,6 +1,6 @@
 ---
-title: "Aboutpdrn"
-description: "Aboutpdrn"
+title: "초음파 PDRN 약침
+description: "정확하고 안전한 재생 치료"
 date: 2025-11-25T10:48:58+09:00
 image: aboutpdrn.jpg
 draft: false
