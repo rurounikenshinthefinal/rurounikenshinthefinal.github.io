@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://rurounikenshinthefinal.github.io"
+baseurl = "https://mgrdoc.com"
 languageCode = "ko-kr"
 title = "경희무교로한의원"
 
