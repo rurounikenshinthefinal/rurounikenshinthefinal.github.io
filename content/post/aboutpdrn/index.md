@@ -2,7 +2,7 @@
 title: "Aboutpdrn"
 description: "Aboutpdrn"
 date: 2025-11-25T10:48:58+09:00
-# image:
+image: aboutpdrn.jpg
 draft: false
 categories:
 #  - 
@@ -67,3 +67,7 @@ https://booking.naver.com/booking/13/bizes/384022
 <!-- {{< youtube zyvhVoAHX3M>}} -->
 <!-- ![질병예방 096 by 한국저작권위원회, 공유마당, CC BY](image1.png) -->
 <!-- hugo new content content/post/my-first-post/index.md -->
+
+정확하고 안전한 재생 치료
+
+[Aging Vectors by Vecteezy](https://www.vecteezy.com/free-vector/aging)
