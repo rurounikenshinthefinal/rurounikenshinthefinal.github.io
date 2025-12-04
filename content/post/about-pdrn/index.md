@@ -2,15 +2,15 @@
 title: "초음파 PDRN 약침"
 description: "정확하고 안전한 재생 치료"
 date: 2025-11-25T10:48:58+09:00
-image: aboutpdrn.jpg
+image: llmpdrn.png
 draft: false
 categories:
 #  - 
 tags:
  - pdrn
 # keywords: []
+toc: true
 comments: false
-toc: false
 # menu:
 #   main:
 #     weight: 100
@@ -59,17 +59,19 @@ PDRN은 **생체 적합성이 높고 부작용이 적은** 안전한 치료제�
 
 ---
 <p>
+<img src="llmpdrn.png", width="800px">
+<p>
 <img src="aboutpdrn2.png", width="600px">
 </p>
 *궁금하신 사항은 언제든지 문의해 주세요*
 
-### 네이버예약
+## 네이버예약
 
 https://booking.naver.com/booking/13/bizes/384022
 <!-- {{< youtube zyvhVoAHX3M>}} -->
 <!-- ![질병예방 096 by 한국저작권위원회, 공유마당, CC BY](image1.png) -->
 <!-- hugo new content content/post/my-first-post/index.md -->
 
-정확하고 안전한 재생 치료
 
-[Aging Vectors by Vecteezy](https://www.vecteezy.com/free-vector/aging)
+
+<!-- [Aging Vectors by Vecteezy](https://www.vecteezy.com/free-vector/aging) -->
